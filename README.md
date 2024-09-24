@@ -6,4 +6,6 @@ Programa desenvolvido como atividade da disciplina de Sistemas Distribuídos II 
 
 Pra rodar o projeto:
 
-### `npm start`
+### `yarn`
+
+### `yarn start`
